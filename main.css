@@ -34,7 +34,7 @@
     flex-direction: column;
     color: #E8EBEA;
     font-weight: bold;
-    background-color: #9BA2FF;
+    background-color: #9bffa0;
 }
 
 .desc {
@@ -94,13 +94,13 @@ img{
     margin-top: 10px;
 }
 
-#Email{
+#email{
     margin-bottom: 30px;
     width: 200px;
     height: 200px;
 }
 
-#Name{
+#name{
     margin-bottom: 30px;
     width: 200px;
     height: 200px;
