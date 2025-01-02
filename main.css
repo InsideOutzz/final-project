@@ -37,6 +37,20 @@
     background-color: #9bffa0;
 }
 
+
+.containeer4{
+    align-items: center;
+    padding-top: 20px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    color: #E8EBEA;
+    font-weight: bold;
+    background-color: #009B72;
+
+}
+
 .desc {
     display: flex;
     text-align: center;
@@ -89,19 +103,21 @@ img{
     margin-bottom: 20px;
 }
 
-.idk{
-    margin-bottom: 20px;
-    margin-top: 10px;
-}
-
 #email{
-    margin-bottom: 30px;
-    width: 200px;
-    height: 200px;
+    margin-bottom: 20px;
+    width: 600px;
+    height: 150px;
 }
 
 #name{
     margin-bottom: 30px;
-    width: 200px;
-    height: 200px;
+    width: 600px;
+    height: 150px;
+}
+
+
+
+.logo{
+    width: 50px;
+    height: 50px;
 }
